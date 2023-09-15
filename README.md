@@ -1,2 +1,10 @@
-# Aplicacion de escritorio gestor de productos para "El Caldero Chorreante"
-Aplicacion de escritorio desarrollada en C# .Net Framework para gestionar productos de una tienda/local.
+# Aplicacion de escritorio gestor de productos
+# Nombre de la tienda: "El Caldero Chorreante"
+Esta aplicacion esta desarrollada en C# .Net Framework Winforms
+
+#Funcionalidades
+1- Listado de productos desde una base de datos en SQL Server <br>
+2- Agregar, modificar, y eliminar permanentemente un producto <br>
+3- Se puede dar de baja un producto con un boton o modificando su stock a 0, los productos dados de baja tienen su propia ventana <br>
+4- Filtro rapido escribiendo o filtro con desplegable por categorias de productos <br>
+5- Agregar o eliminar categorias para establecer los productos
